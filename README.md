@@ -62,8 +62,8 @@
 
 ## 🤝 Let’s Collaborate!
 
-Have an exciting project, idea, or just want to say hi?  
-I'm open for freelance, collaboration, and open-source contribution.
+Have an exciting project, or idea, or just want to say hi?  
+I'm open to freelance, collaboration, and open-source contributions.
 
 📬 **Drop me a message:** [rianrrsaputra.business@gmail.com](mailto:rianrrsaputra.business@gmail.com)
 
@@ -90,6 +90,6 @@ I'm open for freelance, collaboration, and open-source contribution.
 
 > _“Virtute duce, comite fortuna”_
 
-“Let virtue lead, and fortune follow.
+“Let virtue lead, and fortune follow.”
 
-I believe that doing the right thing with integrity and excellence will always bring long-term success — fortune is just a bonus.
+Doing the right thing with integrity and excellence will always bring long-term success — fortune is just a bonus.
