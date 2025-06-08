@@ -90,6 +90,6 @@ I'm open for freelance, collaboration, and open-source contribution.
 
 > _“Virtute duce, comite fortuna”_
 
-> “Let virtue lead, and fortune follow.”
+“Let virtue lead, and fortune follow.
 
-> I believe that doing the right thing with integrity and excellence will always bring long-term success — fortune is just a bonus.
+I believe that doing the right thing with integrity and excellence will always bring long-term success — fortune is just a bonus.
