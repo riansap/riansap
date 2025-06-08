@@ -68,7 +68,7 @@ I'm open for freelance, collaboration, and open-source contribution.
 📬 **Drop me a message:** [rianrrsaputra.business@gmail.com](mailto:rianrrsaputra.business@gmail.com)
 
 <p align="center">
-  <a href="https://linkedin.com/in/riansap" target="_blank">
+  <a href="https://linkedin.com/in/riansaputra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="mailto:rianrrsaputra.business@gmail.com" target="_blank">
