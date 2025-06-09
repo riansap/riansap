@@ -58,6 +58,14 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riansap/riansap/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riansap/riansap/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/riansap/riansap/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 🤝 Let’s Collaborate!
 
 Have an exciting project, or idea, or just want to say hi?  
