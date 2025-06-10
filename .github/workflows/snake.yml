@@ -1,9 +1,9 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
+  # run automatically pada menit ke-1 dari jam ke-0 (tengah malam) setiap hari
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "1 0 * * *"
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -29,11 +29,11 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=gold
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=gold
-            dist/github-snake.svg?color_snake=gold
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=gold
-            dist/ocean.gif?color_snake=gold&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.svg?color_snake=lightblue
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=lightblue
+            dist/github-snake.svg?color_snake=lightblue
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=lightblue
+            dist/ocean.gif?color_snake=lightblue&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
           
           
       # push the content of <build_dir> to a branch
