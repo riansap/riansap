@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rian Saputra</h1>
 
-<h3 align="center">🚀 Mobile Developer | 🖌️ Frontend Enthusiast | 🌱 Lifelong Learner</h3>
+<h3 align="center">📱 Mobile Developer | 🖌️ Frontend Enthusiast | 🌱 Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://github.com/riansap">
