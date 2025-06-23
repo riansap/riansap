@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rian Saputra</h1>
 
-<h3 align="center">📱 Mobile Developer | 🖌️ Frontend Enthusiast | 🌱 Lifelong Learner</h3>
+<h3 align="center">📱 Mobile Developer / 🖌️ Frontend Enthusiast / 🧠 Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://github.com/riansap">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007fff&center=true&vCenter=true&width=600&lines=Flutter+%2F+React+Native+%2F+Next.JS;riansap-life:~/$+curiosity+--infinite" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=51cf66&center=true&vCenter=true&width=600&lines=Flutter+%2F+React+Native+%2F+Next.JS;riansap-life:~/$+curiosity+--infinite" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,html,css,js,ts,react,nextjs,nodejs,express,tailwind,postgresql" />
 </p>
 
@@ -30,7 +30,7 @@
 
 ## 🧰 Tools I Use
 
-<p align="left">
+<p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=fff&style=for-the-badge" />
@@ -53,16 +53,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riansap&layout=compact&theme=tokyonight&hide_border=true" width="300" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api?username=riansap&show_icons=true&theme=tokyonight&hide_border=true" width="350" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=riansap&theme=tokyonight&hide_border=true" width="350" height="200"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riansap/riansap/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riansap/riansap/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/riansap/riansap/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riansap/riansap/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riansap/riansap/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/riansap/riansap/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
@@ -81,14 +77,6 @@ I'm open to freelance, collaboration, and open-source contributions.
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail" />
   </a>
 </p>
-
-<!-- ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/riansap/riansap/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p> -->
 
 ---
 
